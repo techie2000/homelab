@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T19:26:02.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="3Bo8E-CQzGSgfFsbUQP1" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T19:49:26.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="RoaWOLX8JRCUzlYxM9d8" version="21.5.2" type="github">
   <diagram name="Page-1" id="LdHzJ6vxyb1afSf9P6ii">
-    <mxGraphModel dx="4446" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="6642" dy="3537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="aFMg3YP72EsfVgEZLQHG-249" value="Rooms" style="" parent="0" />
-        <mxCell id="aFMg3YP72EsfVgEZLQHG-206" value="&amp;nbsp;Master Bedroom" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="aFMg3YP72EsfVgEZLQHG-249" vertex="1">
-          <mxGeometry x="-1540" y="-1010" width="1110" height="1029" as="geometry" />
-        </mxCell>
         <UserObject label="&amp;nbsp;Living Room" tags="" id="aFMg3YP72EsfVgEZLQHG-204">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="aFMg3YP72EsfVgEZLQHG-249" vertex="1">
             <mxGeometry x="170" y="1090" width="1110" height="1029" as="geometry" />
@@ -18,32 +15,8 @@
         <mxCell id="aFMg3YP72EsfVgEZLQHG-295" value="&amp;nbsp;Guest Bedroom #1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="aFMg3YP72EsfVgEZLQHG-249" vertex="1">
           <mxGeometry x="170" y="40" width="1110" height="1029" as="geometry" />
         </mxCell>
-        <mxCell id="aFMg3YP72EsfVgEZLQHG-296" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/belidong-hotel/32/Artboard_18-128.png;imageBackground=default;" parent="aFMg3YP72EsfVgEZLQHG-249" vertex="1">
+        <mxCell id="aFMg3YP72EsfVgEZLQHG-296" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/belidong-hotel/32/Artboard_18-128.png;imageBackground=default;imageBorder=#005073;" parent="aFMg3YP72EsfVgEZLQHG-249" vertex="1">
           <mxGeometry x="1220" y="50" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-50" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
-          <mxGeometry x="-510" y="1100" width="71.93" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry x="17.9825" width="14.283121685378827" height="18.568058190992467" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=west;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry x="17.9825" y="31.428571428571438" width="14.283121685378827" height="18.568058190992467" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-45" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=north;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry y="17.857142857142872" width="18.568058190992467" height="14.283121685378827" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-46" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry x="53.22820000000006" y="17.857142857142872" width="18.568058190992467" height="14.283121685378827" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-47" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry x="40.00150000000008" width="14.283121685378827" height="18.568058190992467" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-48" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=west;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry x="39.561499999999995" y="31.428571428571438" width="14.283121685378827" height="18.568058190992467" as="geometry" />
-        </mxCell>
-        <mxCell id="PF321P0QjHSob_b39fSD-49" value="" style="shape=rect;shadow=0;html=1;fillColor=#66FFFF;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-50">
-          <mxGeometry x="7.193000000000008" y="7.142857142857149" width="57.13248674151531" height="35.70780421344707" as="geometry" />
         </mxCell>
         <mxCell id="PF321P0QjHSob_b39fSD-94" value="" style="group" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
           <mxGeometry x="-2110" y="1090" width="550" height="1029" as="geometry" />
@@ -63,7 +36,7 @@
         <mxCell id="aFMg3YP72EsfVgEZLQHG-304" value="&amp;nbsp;Back Garden" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PF321P0QjHSob_b39fSD-110" vertex="1">
           <mxGeometry width="550" height="1029" as="geometry" />
         </mxCell>
-        <mxCell id="aFMg3YP72EsfVgEZLQHG-303" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/spring-30/30/Flower-1-128.png" parent="PF321P0QjHSob_b39fSD-110" vertex="1">
+        <mxCell id="aFMg3YP72EsfVgEZLQHG-303" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/spring-30/30/Flower-1-128.png;imageBackground=default;imageBorder=#005073;" parent="PF321P0QjHSob_b39fSD-110" vertex="1">
           <mxGeometry x="490" y="10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PF321P0QjHSob_b39fSD-95" value="" style="group" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
@@ -75,7 +48,7 @@
         <mxCell id="aFMg3YP72EsfVgEZLQHG-327" value="&amp;nbsp;Garage" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PF321P0QjHSob_b39fSD-92" vertex="1">
           <mxGeometry width="550" height="1029" as="geometry" />
         </mxCell>
-        <mxCell id="aFMg3YP72EsfVgEZLQHG-338" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-2/24/garage-128.png;imageBackground=default;" parent="PF321P0QjHSob_b39fSD-92" vertex="1">
+        <mxCell id="aFMg3YP72EsfVgEZLQHG-338" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-2/24/garage-128.png;imageBackground=default;imageBorder=#005073;" parent="PF321P0QjHSob_b39fSD-92" vertex="1">
           <mxGeometry x="490" y="10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PF321P0QjHSob_b39fSD-99" value="" style="group" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
@@ -87,7 +60,7 @@
         <mxCell id="aFMg3YP72EsfVgEZLQHG-207" value="&amp;nbsp;Guest Bedrrom #2" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PF321P0QjHSob_b39fSD-102" vertex="1">
           <mxGeometry width="1110" height="1029" as="geometry" />
         </mxCell>
-        <mxCell id="aFMg3YP72EsfVgEZLQHG-294" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/belidong-hotel/32/Artboard_18-128.png" parent="PF321P0QjHSob_b39fSD-102" vertex="1">
+        <mxCell id="aFMg3YP72EsfVgEZLQHG-294" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/belidong-hotel/32/Artboard_18-128.png;imageBorder=#005073;" parent="PF321P0QjHSob_b39fSD-102" vertex="1">
           <mxGeometry x="1050" y="10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PF321P0QjHSob_b39fSD-104" value="" style="group" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
@@ -173,6 +146,42 @@
         </mxCell>
         <mxCell id="PF321P0QjHSob_b39fSD-90" value="" style="shape=mxgraph.signs.travel.stairs;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" vertex="1" parent="PF321P0QjHSob_b39fSD-91">
           <mxGeometry x="490" y="9" width="50" height="42.34" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-249" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/furniture-4-4/512/furniture_living_room_home_house_offie-08-128.png;imageBackground=default;imageBorder=#005073;" vertex="1" parent="aFMg3YP72EsfVgEZLQHG-249">
+          <mxGeometry x="1220" y="1100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-251" value="" style="group" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
+          <mxGeometry x="-1540" y="-1010" width="1110" height="1029" as="geometry" />
+        </mxCell>
+        <mxCell id="aFMg3YP72EsfVgEZLQHG-206" value="&amp;nbsp;Master Bedroom" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="PF321P0QjHSob_b39fSD-251" vertex="1">
+          <mxGeometry width="1110" height="1029" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-250" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/belidong-hotel/32/Artboard_18-128.png;imageBorder=#005073;" vertex="1" parent="PF321P0QjHSob_b39fSD-251">
+          <mxGeometry x="1051.9299999999998" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-259" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="aFMg3YP72EsfVgEZLQHG-249">
+          <mxGeometry x="-490" y="1100.6399999999999" width="50" height="49.36" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-252" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;fillColor=#005073;aspect=fixed;container=0;" vertex="1" parent="PF321P0QjHSob_b39fSD-259">
+          <mxGeometry x="15.288461538461478" width="19.471182977571175" height="25.311905073215694" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-253" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=west;fillColor=#005073;aspect=fixed;container=0;" vertex="1" parent="PF321P0QjHSob_b39fSD-259">
+          <mxGeometry x="15.288461538461478" y="23.71844155844156" width="19.471182977571175" height="25.311905073215694" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-254" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=north;fillColor=#005073;aspect=fixed;container=0;" vertex="1" parent="PF321P0QjHSob_b39fSD-259">
+          <mxGeometry y="14.968259740259755" width="25.311905073215694" height="19.471182977571175" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-255" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;fillColor=#005073;aspect=fixed;container=0;" vertex="1" parent="PF321P0QjHSob_b39fSD-259">
+          <mxGeometry x="24.358974358974354" y="14.968259740259684" width="25.311905073215694" height="19.471182977571175" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-256" value="" style="shape=rect;shadow=0;html=1;fillColor=#005073;aspect=fixed;container=0;" vertex="1" parent="PF321P0QjHSob_b39fSD-259">
+          <mxGeometry x="10.724358974358987" y="10.40406233766235" width="28.475893207367662" height="28.475893207367662" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-263" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;aspect=fixed;imageBackground=#66FFFF;" vertex="1" parent="aFMg3YP72EsfVgEZLQHG-249">
+          <mxGeometry x="-1800" y="860" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PF321P0QjHSob_b39fSD-266" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;aspect=fixed;imageBackground=#66FFFF;" vertex="1" parent="aFMg3YP72EsfVgEZLQHG-249">
+          <mxGeometry x="-1740" y="860" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aFMg3YP72EsfVgEZLQHG-91" value="Compute + Storage" parent="0" />
         <mxCell id="aFMg3YP72EsfVgEZLQHG-180" value="" style="endArrow=openThin;html=1;rounded=0;strokeColor=#000000;startArrow=openThin;startFill=0;endFill=0;fillColor=#f8cecc;edgeStyle=orthogonalEdgeStyle;entryX=0.38;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aFMg3YP72EsfVgEZLQHG-91" source="aFMg3YP72EsfVgEZLQHG-37" target="PF321P0QjHSob_b39fSD-191" edge="1">
@@ -1170,7 +1179,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="PF321P0QjHSob_b39fSD-101" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1210" y="-1460" width="190" height="105" as="geometry" />
+          <mxGeometry x="-2680" y="-930" width="190" height="105" as="geometry" />
         </mxCell>
         <mxCell id="aFMg3YP72EsfVgEZLQHG-244" value="" style="group" parent="PF321P0QjHSob_b39fSD-101" vertex="1" connectable="0">
           <mxGeometry width="190" height="105" as="geometry" />
@@ -1357,7 +1366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Skk9IjnTPZE2Z5z-faYJ-59" value="EE&lt;br&gt;Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;verticalAlign=top;horizontal=1;" parent="aFMg3YP72EsfVgEZLQHG-93" vertex="1">
-          <mxGeometry x="-1610" y="980" width="50" height="50" as="geometry" />
+          <mxGeometry x="-1620" y="970" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aFMg3YP72EsfVgEZLQHG-7" value="" style="group" parent="aFMg3YP72EsfVgEZLQHG-93" vertex="1" connectable="0">
           <mxGeometry x="-1453" y="759" width="260" height="100" as="geometry" />
@@ -1468,12 +1477,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Skk9IjnTPZE2Z5z-faYJ-60" value="&amp;nbsp;&amp;lt; 300Mbit -- 50Mbit &amp;gt;&amp;nbsp;" style="endArrow=openThin;html=1;rounded=0;strokeColor=default;startArrow=openThin;startFill=0;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="aFMg3YP72EsfVgEZLQHG-93" target="Skk9IjnTPZE2Z5z-faYJ-55" edge="1">
+        <mxCell id="Skk9IjnTPZE2Z5z-faYJ-60" value="&amp;nbsp;&amp;lt; 300Mbit -- 50Mbit &amp;gt;&amp;nbsp;" style="endArrow=openThin;html=1;rounded=0;strokeColor=default;startArrow=openThin;startFill=0;endFill=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="aFMg3YP72EsfVgEZLQHG-93" source="Skk9IjnTPZE2Z5z-faYJ-59" target="Skk9IjnTPZE2Z5z-faYJ-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1585" y="1026" as="sourcePoint" />
             <mxPoint x="-757" y="988.0000000000005" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1200" y="1080" />
+              <mxPoint x="-1550" y="995" />
+              <mxPoint x="-1550" y="1080" />
+              <mxPoint x="-760" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
