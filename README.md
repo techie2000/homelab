@@ -1,7 +1,7 @@
 # Homelab setup
 Documenting my homelab setup as I go.
 
-1. Hardware overview/ideas
+1. [Hardware overview/ideas](./docs/hardware.md)
 1. NAS/Fileserver setup
 1. Hypervisor setup
     1. Adding the first server/service
