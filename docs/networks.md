@@ -59,9 +59,9 @@
 | DNS Server 3 |       |       -       |       -       |   -   |
 | DNS Server 4 |       |       -       |       -       |   -   |
 
-|     Setting     | Notes | LAN           | IoT           |     Guest     |
-| :-------------: | ----- | ------------- | ------------- | :-----------: |
-| DHCP Lease Time |       | 86400 Seconds | 10800 Seconds | 86400 Seconds |
+|     Setting     | Notes | LAN                   | IoT                     |         Guest         |
+| :-------------: | ----- | --------------------- | ----------------------- | :-------------------: |
+| DHCP Lease Time |       | 86400 Seconds (1 day) | 10800 Seconds (3 hours) | 86400 Seconds (1 day) |
 
 | Setting         | Notes | LAN  | IoT  | Guest |
 | :-------------- | ----- | ---- | :--: | :---: |
