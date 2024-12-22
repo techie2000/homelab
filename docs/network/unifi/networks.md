@@ -1,6 +1,6 @@
 # Networks
 
-| Setting |      LAN       |      IoT       |     Guest      |
+| Setting |      LAN      |      IoT      |     Guest     |
 | ------- | :------------: | :------------: | :------------: |
 | Router  | Office UDM Pro | Office UDM Pro | Office UDM Pro |
 
@@ -14,24 +14,24 @@
 
 ### Gateway IP/Subnet
 
-| Setting            | Notes                                                                        |      LAN       |      IoT       |     Guest      |
+| Setting            | Notes                                                                        |      LAN      |      IoT      |     Guest     |
 | :----------------- | ---------------------------------------------------------------------------- | :------------: | :------------: | :------------: |
 | Auto-Scale Network | PPSK requires the use of WPA2 security and only supports 2.4/5 Ghz networks. |       🔴       |       🔴       |       🔴       |
-| Host Address       |                                                                              |  192.168.1.1   | 192.168.107.1  | 192.168.199.1  |
+| Host Address       |                                                                              |  192.168.1.1  | 192.168.107.1 | 192.168.199.1 |
 | Netmask            |                                                                              | 24 (249 hosts) | 24 (249 hosts) | 24 (249 hosts) |
 
 ### Advanced
 
 #### Manual
 
-| Setting               | NotesNotes                                                                                                                                                                                                                                                                                                       | LAN | IoT | Guest |
+| Setting               | Notes                                                                                                                                                                                                                                                                                                            | LAN | IoT | Guest |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-: | :-: | :---: |
 | VLAN ID               | An ID used to differentiate new virtual Networks from your default network (VLAN 1)                                                                                                                                                                                                                              | (1) | 107 |  199  |
-| Guest Network         | Isolates the network from other Virtal Networks not defined as Guest Networks using firewall rules on the UniFi Gateway. Guests on this network are able to communicate with each and access the internet. If the landing page is enabled in the Hotspot Manager. Guests are also redirected for authentication. | 🔴  | 🔴  |  🟢   |
-| Isolate Network       | Isolates this network from all other Virtual Networks using firewall rules on the UniFi Gateway. Devices on this network are able to communicate with each other.                                                                                                                                                | 🔴  | 🔴  |   -   |
-| Allow Internet Access | Allows devices on this network to access the internet.                                                                                                                                                                                                                                                           | 🟢  | 🟢  |  🟢   |
-| ICMP Snooping         | Improves network bandwidth by only sending multicast traffic such as Airplay to the intended network devices. This may however increase multicast latency and drop any non-registered multicast traffic (such as PTPv2).                                                                                         | 🟢  | 🟢  |  🔴   |
-| Multicast DNS         | Allows multicast traffic to transmit across multiple networks. We recommend this featurewhen using AirPlay or Chromecast.                                                                                                                                                                                        | 🟢  | 🟢  |  🔴   |
+| Guest Network         | Isolates the network from other Virtal Networks not defined as Guest Networks using firewall rules on the UniFi Gateway. Guests on this network are able to communicate with each and access the internet. If the landing page is enabled in the Hotspot Manager. Guests are also redirected for authentication. | 🔴 | 🔴 |  🟢  |
+| Isolate Network       | Isolates this network from all other Virtual Networks using firewall rules on the UniFi Gateway. Devices on this network are able to communicate with each other.                                                                                                                                                | 🔴 | 🔴 |   -   |
+| Allow Internet Access | Allows devices on this network to access the internet.                                                                                                                                                                                                                                                           | 🟢 | 🟢 |  🟢  |
+| ICMP Snooping         | Improves network bandwidth by only sending multicast traffic such as Airplay to the intended network devices. This may however increase multicast latency and drop any non-registered multicast traffic (such as PTPv2).                                                                                         | 🟢 | 🟢 |  🔴  |
+| Multicast DNS         | Allows multicast traffic to transmit across multiple networks. We recommend this featurewhen using AirPlay or Chromecast.                                                                                                                                                                                        | 🟢 | 🟢 |  🔴  |
 
 ### DHCP
 
@@ -48,9 +48,9 @@
 
 #### DHCP Name Server
 
-| Setting     | Notes | LAN    |  IoT   | Guest |
+| Setting     | Notes | LAN    |  IoT  | Guest |
 | :---------- | ----- | ------ | :----: | :---: |
-| Auto/Manual |       | Manual | Manual | Auto  |
+| Auto/Manual |       | Manual | Manual | Auto |
 
 | Setting      | Notes |      LAN      |      IoT      | Guest |
 | :----------- | ----- | :-----------: | :-----------: | :---: |
@@ -63,9 +63,9 @@
 | :-------------: | ----- | --------------------- | ----------------------- | :-------------------: |
 | DHCP Lease Time |       | 86400 Seconds (1 day) | 10800 Seconds (3 hours) | 86400 Seconds (1 day) |
 
-| Setting         | Notes | LAN  | IoT  | Guest |
+| Setting         | Notes | LAN  | IoT | Guest |
 | :-------------- | ----- | ---- | :--: | :---: |
-| DHCP Gateway IP |       | Auto | Auto | Auto  |
+| DHCP Gateway IP |       | Auto | Auto | Auto |
 
 | Setting            | Notes | LAN | IoT | Guest |
 | :----------------- | ----- | :-: | :-: | :---: |
@@ -73,7 +73,7 @@
 
 | Setting       | Notes                                                                | Main | IoT | Guest |
 | :------------ | -------------------------------------------------------------------- | :--: | :-: | :---: |
-| DHCP Guarding | Protects against rogue DHCP servers by only permitting trusted ones. |  🟢  | 🟢  |  🟢   |
+| DHCP Guarding | Protects against rogue DHCP servers by only permitting trusted ones. |  🟢  | 🟢 |  🟢  |
 
 | Setting              | Notes |     LAN     |      IoT      |     Guest     |
 | :------------------- | ----- | :---------: | :-----------: | :-----------: |
@@ -83,8 +83,8 @@
 
 | Setting           | Notes                                                                                                                         | LAN | IoT | Guest |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- | :-: | :-: | :---: |
-| DHCP NTP Server   | The DHCP Network Time Orotocol (NTP) server must have a vaid IP address. This cannot be a fully qulaified domain name (FQDN). | 🔴  | 🔴  |  🔴   |
-| DHCP Network Boot | Boot a device over the network by specifying the server IP address and filename (PXE).                                        | 🔴  | 🔴  |  🔴   |
-| DHCP Time Offset  | The time offseet in seconds, of clients on this network from Coordinated Universal Time (UTC).                                | 🔴  | 🔴  |  🔴   |
+| DHCP NTP Server   | The DHCP Network Time Orotocol (NTP) server must have a vaid IP address. This cannot be a fully qulaified domain name (FQDN). | 🔴 | 🔴 |  🔴  |
+| DHCP Network Boot | Boot a device over the network by specifying the server IP address and filename (PXE).                                        | 🔴 | 🔴 |  🔴  |
+| DHCP Time Offset  | The time offseet in seconds, of clients on this network from Coordinated Universal Time (UTC).                                | 🔴 | 🔴 |  🔴  |
 | DHCP WPAD URL     |                                                                                                                               |  -  |  -  |   -   |
 | DHCP TFTP Server  |                                                                                                                               |  -  |  -  |   -   |
